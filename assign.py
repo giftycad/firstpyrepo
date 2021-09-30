@@ -1,3 +1,4 @@
+#a piece of code to give even and odd num bet a range of numbers
 lowlim = 0
 highlim = 0
 evenorodd = ""
